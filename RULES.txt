@@ -1,0 +1,91 @@
+Dragon Duel
+
+Object
+To kill your opponent's dragon before they kill yours.
+
+Setup
+Each player chooses a dragon, and a d20 (20-sided die) as well as a d4 (4-sided die) to go along with it. Both players place their dragons in front of them, with their d20 and d4 directly behind it, both set to their highest number. These dice are not rolled, but are used as counters for the two values of the each dragon, which will change during the course of the game. The d20 represents the number of “health” a dragon has remaining, and the d4 represents it's number of “energy”.
+
+Both players then take a d12, d10, and d8 from the game box and put them in front of themselves, far enough from the dragon and its counting dice, so as not to get confused with them. These three dice will be used for rolling when making or defending against attacks during the game.
+
+Both players roll their d12. Whoever's die rolls higher goes first in the game (if it is a tie, roll again).
+
+Turn Overview
+On your turn, you have four options.
+
+A) Claw
+Subtract one energy (turn your d4 from “4” to “3”). Roll your d8.
+
+B) Tail whip
+Subtract two energy. Roll your d8 and d10.
+
+C) Breath fire
+Subtract three energy. Roll all three of your dice. Also, your opponent defends with a d8 instead of the normal d10
+
+D) Wait
+Add one energy. Waiting is not allowed if a dragon already has full energy.
+
+Note: A dragon may never at any time go below one energy, or above four.
+
+Fighting
+When a player takes their turn, they roll the dice specified in the “Turn Overview” section (if they chose to attack). The numbers are then added together, and their sum is multiplied by the number of energy the attacking dragon possesses.
+
+The defender then rolls their d10, and multiplies it by their own energy.
+
+Whichever player turns out with the highest total wins the fight. If the attacker wins the fight, subtract the defender's total from the attacker's total. Then subtract the difference from the defender's health. If the defender wins, deduct 1 energy from the attacker's dragon (if there is no energy to take away, subtract 2 health instead).
+
+Round End
+When both players have taken their turn, it is the end of that round. If both dragons are still alive, each player adds one energy to their dragon's d4. Then, the player with the most remaining energy must be the first to attack on the following round. If both players' energy levels are the same, the player who won the initial die roll, and first attacked in the game attacks first.
+
+Game End
+The game ends immediately when one player's dragon loses all of its health. The surviving dragon is the victor. Because games of Dragon Duel are normally short, players may choose to play a match consisting of an odd number of games, alternating which dragon attacks first each game. The player who wins more games is the ultimate champion.
+
+Turn Example
+It is Daniel's turn and he chooses to “tail whip” his opponent's dragon. He turns his energy die from “4” to “2”, and rolls his d8 and d10. They are a 4, and 7, respectively. His opponent, Stephen, rolls his d10, because he is the defender. His number turns out to be a 6.
+
+Daniel's attack total: (4 + 7) x 2 = 22
+Stephen's defense total: 6 x 4 = 24
+
+Stephen's defense trumps Daniel's attack. The attack fails, and Daniel's dragon loses one energy.
+
+It is now Stephen's turn to attack. Stephen chooses to breath fire, subtracting three energy from his dragon. He rolls all three of his dice (d8, d10, and d12), and they are a 5, 9, and 8 respectively. Daniel, since Stephen chose to breath fire, rolls his d8 to defend. It is 7.
+
+Stephen's attack total: 5 + 9 + 8 = 22
+Daniel's defense total: 7
+
+Stephen's fire-breathing attack devastates Daniel's defense. Daniel's defensive value is subtracted from Stephen's attack total, and the difference is 15. 15 health is subtracted from Daniel's dragon, and he now has only 5 health left.
+
+The round is over. Daniel and Stephen each add one energy to their d4. Both of their dragon's have two energy, so Daniel will start the next round.
+
+
+Advanced Rules
+
+Solitaire Play
+Set up the game as normal. Take an extra 4d and set it next to your enemy dragon. Instead of being controlled by an intelligent player, your opponent's decisions will be made by the roll of the d4. If the 4d turns out to be a...
+
+1—your opponent chooses to claw
+2—your opponent chooses to lunge.
+3—your opponent chooses to breath fire.
+4—your opponent chooses to wait.
+
+Note: if one or more of the options are not available, roll until your enemy chooses an option that is available.
+
+Because this presents a significant disadvantage to your opponent, with his decisions being made my random chance, try fighting two enemy dragons at the same time. See how many dragons your dragon can take on at once.
+
+Arena
+If more than two players wish to play a game of Dragon Duel, they may do so by playing with the “Arena” rules. Any number of people may play, provided there are enough dragons. Players set up their dragons as normal, but in a circle with all dragons facing the center. All players roll their d12 to decide who goes first. Play passes around to the left.
+
+In this game, players may choose to attack one of the two dragons immediately next to their own, but may not attack any dragons across from them. When a dragon is killed, the dragons on either side of him become adjacent, and may attack eachother.
+
+The game ends when only one dragon remains. That dragon is the champion.
+
+Dragon Battles
+Another way to play with more than two players is with a team battle. However, for this version, there must be an even amount of dragons on each side (if needed, one player may control multiple dragons).
+
+Each team sets up their dragons on either side of the battlefield, lining up each dragon facing an enemy. All the members of each team share the same three fighting dice, since only two sets will be needed at any one time.
+
+To start, a player from both teams rolls their d12. Whichever team rolls higher goes first. Attacks are done by
+
+
+Unique Abilities
+Unique abilities are part of the advanced rules, but are set apart from the other sections. Every dragon has an assigned unique ability, which is given to the player who owns it. Unique abilities are meant to be used after players are familiar enough with the rules, and can be used along with any of the other advanced rules.
